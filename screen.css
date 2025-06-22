@@ -22,7 +22,11 @@ header{
 #logo{
     height: 150px;
     width: 150px;
-    
+}
+
+#ConfusedDog{
+    height: 800px;
+    width: 800px;
 }
 h1{
     font-size: 8em;
