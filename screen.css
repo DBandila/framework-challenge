@@ -10,7 +10,6 @@ body {
 }
 
 .masthead{
-    background: no-repeat bottom / cover url('Images/happydog.jpg');
     height: 250px;
     border-radius: 20px;
     align-items: start;
