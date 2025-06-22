@@ -2,8 +2,10 @@ html{
     background: #e3e3e3;
 }
 
-#logo{
-    width: 100px;
+.masthead{
+    background: no-repeat bottom / cover url('Images/happydog.jpg');
+    height: 250px;
+    border-radius: 20px;
 }
 
 h2{
